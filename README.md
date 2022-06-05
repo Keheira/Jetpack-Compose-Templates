@@ -23,17 +23,18 @@ Simple timer application. When you hit the "start" button the time starts increm
 ### [Text Pass]()
 Pass text entered on screen 1 to screen 2. This demonstrates navigation and the use of `rememberSaveable`.
 
-### [SDK Example]()
+### [SDK Example](https://github.com/Keheira/Jetpack-Compose-Templates/tree/main/SDKExample)
 Writing a simple library and using it within an app.
 
+### [Compose Tutorial](https://github.com/Keheira/Jetpack-Compose-Templates/tree/main/ComposeTutorial)
+*Article this came from can be found [here](https://developer.android.com/jetpack/compose/tutorial?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fcompose%23article-https%3A%2F%2Fdeveloper.android.com%2Fjetpack%2Fcompose%2Ftutorial)*
 
-### [Jetpack Compose Basics]()
+Just getting familiar with Jetpack Compose layout and functionality.
+
+### [Compose Basics](https://github.com/Keheira/Jetpack-Compose-Templates/tree/main/ComposeBasics)
 *Codelab can be found [here](https://developer.android.com/codelabs/jetpack-compose-basics?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fcompose%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fjetpack-compose-basics)*
 
 Start working with state, layouts, and theming in jetpack compose. Everything is in a single file which isn't standard but still give you a good start on understanding the basics of declaritive UI.
 
-## Looking for Something
-If you are looking for a template or example please feel free to submit an issue to the repo and I will try to get to it.
-
 ## Want to contribute
-If you want to contribute please create a new descriptive folder name for your application, update the read me following the guidlines [here](), and submit a PR.
+Follow the guidlines [here](https://github.com/Keheira/Jetpack-Compose-Templates/blob/main/contributing.md).
